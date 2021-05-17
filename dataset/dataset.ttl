@@ -6,6 +6,318 @@ data:1 rdf:type data:mentor;
     data:name "Prawito Hudoro";
     data:img "https://prawito.com/img/people/profile.png";
     data:link "https://prawito.com";
-    data:desc "A professional front-end developer from Jakarta, Indonesia. I always give the best effort for each projects I did. I give a solution with my creative app.";
-    data:category "Front-End Development";
+    data:desc "Front-End Developer";
+    data:category "Web Development";
+    .
+data:2 rdf:type data:mentor;
+    data:id "1102";
+    data:name "Angga Risky";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Mobile Development, Product Design";
+    .
+data:3 rdf:type data:mentor;
+    data:id "1103";
+    data:name "Yein Narayana";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development";
+    .
+data:4 rdf:type data:mentor;
+    data:id "1104";
+    data:name "Rifqi Eka";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, User Interface Design";
+    .
+data:5 rdf:type data:mentor;
+    data:id "1105";
+    data:name "Galih Pratama";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development";
+    .
+data:6 rdf:type data:mentor;
+    data:id "1106";
+    data:name "Erico Darmawan";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Mobile Development";
+    .
+data:7 rdf:type data:mentor;
+    data:id "1107";
+    data:name "Robby Dianputra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Mobile Development";
+    .
+data:8 rdf:type data:mentor;
+    data:id "1108";
+    data:name "Widada";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Developement";
+    .
+data:9 rdf:type data:mentor;
+    data:id "1109";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:10 rdf:type data:mentor;
+    data:id "1110";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:11 rdf:type data:mentor;
+    data:id "1111";
+    data:name "Elfin Sanjaya";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Back-End Development";
+    .
+data:12 rdf:type data:mentor;
+    data:id "1112";
+    data:name "Ipung Purwono";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "iOS Development, Mobile Development";
+    .
+data:13 rdf:type data:mentor;
+    data:id "1113";
+    data:name "Agung Setiawan";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Back-End Development";
+    .
+data:14 rdf:type data:mentor;
+    data:id "1114";
+    data:name "Dhimas Prio";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Illustrator & Graphic Designer";
+    data:category "Design";
+    .
+data:15 rdf:type data:mentor;
+    data:id "1115";
+    data:name "Nur Miftah";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Illustrator, Animator & Graphic Designer";
+    data:category "Design";
+    .
+data:16 rdf:type data:mentor;
+    data:id "1116";
+    data:name "Nur Ibrahim";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "UI Designer";
+    data:category "Design";
+    .
+data:17 rdf:type data:mentor;
+    data:id "1117";
+    data:name "Thalhah S. Robbani";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "UX Designer";
+    data:category "Design";
+    .
+data:18 rdf:type data:mentor;
+    data:id "1118";
+    data:name "Ananda Nadya";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "UX Researcher";
+    data:category "Design, Research";
+    .
+data:19 rdf:type data:mentor;
+    data:id "1119";
+    data:name "Deska Setiawan Yusra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Product Manager";
+    data:category "Product Development, Product Management";
+    .
+data:20 rdf:type data:mentor;
+    data:id "1120";
+    data:name "Afif Bimantara";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "UI/UX Designer";
+    data:category "Design";
+    .
+data:21 rdf:type data:mentor;
+    data:id "1121";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:22 rdf:type data:mentor;
+    data:id "1122";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:23 rdf:type data:mentor;
+    data:id "1123";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:24 rdf:type data:mentor;
+    data:id "1124";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:25 rdf:type data:mentor;
+    data:id "1125";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:26 rdf:type data:mentor;
+    data:id "1126";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:27 rdf:type data:mentor;
+    data:id "1127";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:28 rdf:type data:mentor;
+    data:id "1128";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:29 rdf:type data:mentor;
+    data:id "1129";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:30 rdf:type data:mentor;
+    data:id "1130";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:31 rdf:type data:mentor;
+    data:id "1131";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:32 rdf:type data:mentor;
+    data:id "1132";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:33 rdf:type data:mentor;
+    data:id "1133";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:34 rdf:type data:mentor;
+    data:id "1134";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:35 rdf:type data:mentor;
+    data:id "1135";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:36 rdf:type data:mentor;
+    data:id "1136";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:37 rdf:type data:mentor;
+    data:id "1137";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:38 rdf:type data:mentor;
+    data:id "1138";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:39 rdf:type data:mentor;
+    data:id "1139";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
+    .
+data:40 rdf:type data:mentor;
+    data:id "1140";
+    data:name "Nusendra";
+    data:img "https://prawito.com/img/people/profile.png";
+    data:link "https://prawito.com";
+    data:desc "Full-Stack Developer";
+    data:category "Web Development, Front-End Development";
     .
