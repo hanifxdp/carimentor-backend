@@ -1,7 +1,7 @@
 const axios = require("axios");
 const qs = require("qs");
 
-const DATA_URL = "http://localhost:3030";
+const DATA_URL = "https://fuseki-service.herokuapp.com/carimentor/data";
 
 const headers = {
   Accept: "application/sparql-results+json,*/*;q=0.9",
