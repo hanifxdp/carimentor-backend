@@ -12,80 +12,80 @@ data:1 rdf:type data:mentor;
 data:2 rdf:type data:mentor;
     data:id "1102";
     data:name "Angga Risky";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img " https://ibb.co/yyJN2MT ";
+    data:link "https://www.linkedin.com/in/angga-risky";
     data:desc "Full-Stack Developer";
     data:category "Web Development, Mobile Development, Product Design";
     .
 data:3 rdf:type data:mentor;
     data:id "1103";
     data:name "Yein Narayana";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img "https://ibb.co/g9d6dK0";
+    data:link "https://www.linkedin.com/in/yein-narayana";
     data:desc "Full-Stack Developer";
     data:category "Web Development";
     .
 data:4 rdf:type data:mentor;
     data:id "1104";
     data:name "Rifqi Eka";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img "https://ibb.co/LpJYjyN";
+    data:link "https://www.linkedin.com/in/rifqi-e";
     data:desc "Full-Stack Developer";
     data:category "Web Development, User Interface Design";
     .
 data:5 rdf:type data:mentor;
     data:id "1105";
     data:name "Galih Pratama";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img "https://ibb.co/8YSyy9f";
+    data:link "https://www.linkedin.com/in/galihpratama";
     data:desc "Full-Stack Developer";
     data:category "Web Development";
     .
 data:6 rdf:type data:mentor;
     data:id "1106";
     data:name "Erico Darmawan";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img "https://ibb.co/QXpLvKf";
+    data:link "https://www.linkedin.com/in/erico-darmawan-handoyo";
     data:desc "Full-Stack Developer";
     data:category "Web Development, Mobile Development";
     .
 data:7 rdf:type data:mentor;
     data:id "1107";
     data:name "Robby Dianputra";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img "https://ibb.co/x3TQmDG";
+    data:link "https://www.linkedin.com/in/robby-dianputra";
     data:desc "Full-Stack Developer";
     data:category "Web Development, Mobile Development";
     .
 data:8 rdf:type data:mentor;
     data:id "1108";
     data:name "Widada";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img "https://ibb.co/7vLX1Xx";
+    data:link "https://www.linkedin.com/in/widada";
     data:desc "Full-Stack Developer";
     data:category "Web Developement";
     .
 data:9 rdf:type data:mentor;
     data:id "1109";
     data:name "Nusendra";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img "https://ibb.co/1fc9wDr";
+    data:link "https://www.linkedin.com/in/nusendra-hanggarawan";
     data:desc "Full-Stack Developer";
     data:category "Web Development, Front-End Development";
     .
 data:10 rdf:type data:mentor;
     data:id "1110";
     data:name "Nusendra";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img "https://ibb.co/1fc9wDr";
+    data:link "https://www.linkedin.com/in/nusendra-hanggarawan";
     data:desc "Full-Stack Developer";
     data:category "Web Development, Front-End Development";
     .
 data:11 rdf:type data:mentor;
     data:id "1111";
     data:name "Elfin Sanjaya";
-    data:img "https://prawito.com/img/people/profile.png";
-    data:link "https://prawito.com";
+    data:img "https://ibb.co/hYTfV4f";
+    data:link "https://www.linkedin.com/in/elfin-sanjaya";
     data:desc "Full-Stack Developer";
     data:category "Web Development, Back-End Development";
     .
