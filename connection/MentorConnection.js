@@ -23,7 +23,6 @@ exports.getMentors = async (param) => {
         OPTIONAL {?sub data:desc ?desc.}
         OPTIONAL {?sub data:category ?category.}
         FILTER regex(?name, "${param.name ? param.name : ""}", "i")
-        FILTER regex(?id, "${param.id ? param.id : ""}", "i")
         FILTER regex(?category, "${param.category ? param.category : ""}", "i")
     }`,
   };
