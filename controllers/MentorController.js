@@ -42,30 +42,32 @@ module.exports = {
     try {
       console.log("function starting");
       // Query data dari repo
-      let mentors = await connection.getCategory(req.query);
+      let categories = await connection.getCategory(req.query);
 
-      if (!mentors.bindings.length) {
+      if (!categories.bindings.length) {
         return res.status(200).json({
           data: [],
           message: "Data tidak ditemukan",
         });
       }
 
-      mentors = mentors.bindings.map((mentor) => formatCategory(mentor));
+      categories = categories.bindings.map((category) =>
+        formatCategory(category)
+      );
 
       if (req.params.id) {
-        let mentor = mentors.filter((mentor) => {
-          return mentor.id == req.params.id;
+        let categories = categories.filter((category) => {
+          return category.id == req.params.id;
         });
         res.status(200).json({
-          data: mentor[0],
+          data: category[0],
           message: mentor.length
             ? "Data category berhasil didapatkan"
             : "Tidak ada hasil dari pencarian",
         });
       } else {
         res.status(200).json({
-          data: mentors,
+          data: category,
           message: "Show all category",
         });
       }

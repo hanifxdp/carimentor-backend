@@ -13,7 +13,7 @@ exports.getMentors = async (param) => {
   const queryData = {
     query: `PREFIX data:<http://example.com/>
     PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
-    SELECT ?id ?name ?img ?desc ?categoryName
+    SELECT ?id ?name ?img ?desc ?link ?categoryName
     WHERE{
         ?sub rdf:type data:mentor
         OPTIONAL {?sub data:id ?id.}
@@ -24,7 +24,9 @@ exports.getMentors = async (param) => {
         OPTIONAL {?sub data:onCategory ?categoryID.}
         OPTIONAL {?categoryID data:categoryName ?categoryName.}
         FILTER regex(?name, "${param.name ? param.name : ""}", "i")
-        FILTER regex(?categoryName, "${param.category ? param.category : ""}", "i")
+        FILTER regex(?categoryName, "${
+          param.category ? param.category : ""
+        }", "i")
     }`,
   };
   try {
